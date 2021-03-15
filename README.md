@@ -12,7 +12,7 @@ No License Provided
  * [License](#license)
  
 ## Description
-[Click this link to view it in action](https://github.com/AdamR-Work/inventory-server-sql)
+[Click this link to view it in action](https://drive.google.com/file/d/1RnvnqjPsiBK0WTfHrOkGSNBnl6IQBCWh/view)
 
 It uses mysql, node, dotenv, sequelize to help mananage a servers database that sells clothing items.
 
